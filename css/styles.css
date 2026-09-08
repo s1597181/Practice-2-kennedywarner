@@ -8,3 +8,17 @@ nav {
     color:#111111;
     border: 6px solid #111111;
 }
+
+header {
+    background: #3153d1;
+    color: #f6f6f4;
+    border: 6px solid #111111;
+}
+img {
+    width:420px;
+    height: 260px;
+    border: 6px solid #f6f6f4
+}
+h1 {
+    color:#facb37
+}
