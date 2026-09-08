@@ -27,3 +27,22 @@ aside {
     color: #f6f6f4;
     border: 6px solid #111111;
 }
+
+main {
+    background: #f6f6f4;
+    border: 6px solid #111111;
+}
+article {
+    background: #f6f6f4;
+    border: 3px solid #111111;
+}
+section {
+    background: #facb37;
+    border: 6px solid #d83134;
+}
+h2 {
+    color:#d83134;
+}
+h3 {
+    color: #3153d1;
+}
